@@ -13,3 +13,4 @@ It includes three pricing plans with structured content, icons using Google Mate
 This project was created to practice layout alignment, spacing, and card structuring using core frontend concepts.
 
 You can view my project here:
+https://sreenandh76.github.io/Subscription_Task/
